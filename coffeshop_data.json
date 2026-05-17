@@ -1,0 +1,134 @@
+{
+  "prices": {
+    "americano":     2.50,
+    "latte":         3.50,
+    "hot_chocolate": 3.00,
+    "espresso":      2.00,
+    "cappuccino":    3.25,
+    "matcha_latte":  4.00,
+    "san_sebastian": 5.50,
+    "muffin":        2.75,
+    "brownie":       3.00,
+    "cheesecake":    4.50,
+    "croissant":     2.50,
+    "tiramisu":      5.00
+  },
+  "monday": {
+    "drinks": {
+      "americano":     3,
+      "latte":         7,
+      "hot_chocolate": 3,
+      "espresso":      5,
+      "cappuccino":    4
+    },
+    "desserts": {
+      "san_sebastian": 3,
+      "muffin":        5,
+      "croissant":     6
+    },
+    "tips": 13.00
+  },
+  "tuesday": {
+    "drinks": {
+      "americano":     6,
+      "latte":         9,
+      "espresso":      8,
+      "matcha_latte":  4,
+      "cappuccino":    5
+    },
+    "desserts": {
+      "brownie":       7,
+      "cheesecake":    4,
+      "muffin":        3,
+      "croissant":     5
+    },
+    "tips": 18.50
+  },
+  "wednesday": {
+    "drinks": {
+      "latte":         11,
+      "hot_chocolate": 6,
+      "cappuccino":    7,
+      "matcha_latte":  5,
+      "americano":     4
+    },
+    "desserts": {
+      "san_sebastian": 5,
+      "tiramisu":      3,
+      "muffin":        4,
+      "brownie":       6
+    },
+    "tips": 21.00
+  },
+  "thursday": {
+    "drinks": {
+      "espresso":      10,
+      "americano":     7,
+      "latte":         8,
+      "cappuccino":    6,
+      "hot_chocolate": 2
+    },
+    "desserts": {
+      "cheesecake":    6,
+      "croissant":     8,
+      "tiramisu":      4,
+      "san_sebastian": 2
+    },
+    "tips": 16.75
+  },
+  "friday": {
+    "drinks": {
+      "latte":         15,
+      "matcha_latte":  9,
+      "cappuccino":    11,
+      "hot_chocolate": 8,
+      "americano":     6,
+      "espresso":      7
+    },
+    "desserts": {
+      "san_sebastian": 9,
+      "brownie":       10,
+      "tiramisu":      6,
+      "cheesecake":    7,
+      "muffin":        8
+    },
+    "tips": 34.00
+  },
+  "saturday": {
+    "drinks": {
+      "latte":         18,
+      "hot_chocolate": 12,
+      "matcha_latte":  11,
+      "cappuccino":    13,
+      "americano":     8,
+      "espresso":      6
+    },
+    "desserts": {
+      "san_sebastian": 12,
+      "tiramisu":      8,
+      "cheesecake":    9,
+      "brownie":       11,
+      "croissant":     10,
+      "muffin":        7
+    },
+    "tips": 47.50
+  },
+  "sunday": {
+    "drinks": {
+      "latte":         14,
+      "hot_chocolate": 10,
+      "matcha_latte":  8,
+      "cappuccino":    9,
+      "americano":     5,
+      "espresso":      4
+    },
+    "desserts": {
+      "san_sebastian": 8,
+      "tiramisu":      6,
+      "cheesecake":    7,
+      "brownie":       8,
+      "croissant":     9
+    },
+    "tips": 39.00
+  }
+}
